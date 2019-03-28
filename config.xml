@@ -16,12 +16,12 @@ Darwin Joaquin Alarcon Briones
 </author>
 
 <!-- Personaliza la aplicacion en platataforma-->
-<preference name= "orientation" value= "default"/>
+<preference name="orientation" value= "default"/>
 <!--preference name="orientation" value="portrait"/>
 <preference name=orientation"  value"landscape"/> -->
-<preference name"target-device"    value="universal"/>
+<preference name="target-device"    value="universal"/>
 <preference name="fullscreen"   value="true"/>
-<preference name"android-installLocation"  value="auto"/>
+<preference name="android-installLocation"  value="auto"/>
 <preference name="permissions"  value="INTERNET"/>
 
 <!--PLUGINS-->
