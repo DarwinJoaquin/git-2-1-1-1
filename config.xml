@@ -8,7 +8,7 @@ version="1.0.0">
 <name> app2-Especialidad  Tecnico en Programacion </name>
 
 <description>
-Aplicacion que nos muestra informacion de sobre la especialidad de Tecnico  en programacion CBTis 16
+Aplicacion que nos muestra informacion de sobre la especialidad de Tecnico  en programacion CBTis 
 </description>
 
 <author href="https://build.phonegap.com" email="darwinjoaquinalarconbriones@gmail.com">
@@ -37,6 +37,6 @@ Darwin Joaquin Alarcon Briones
  <plugin name="cordova-plugin-whitelist" source="npm"/>
  <!--colocar icono app-->
  
- <icon src"res/android/mdpi.png"/>
+ <icon src="res/android/mdpi.png"/>
  
  </widget>
